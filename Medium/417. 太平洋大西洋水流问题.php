@@ -13,12 +13,6 @@
 
 class Solution
 {
-
-    public $heights = [];
-    public $x = 0;
-    public $y = 0;
-
-
     /**
      * @param Integer[][] $heights
      * @return Integer[][]
@@ -40,7 +34,7 @@ class Solution
         }
         //交集即为两边都能流出的结果
         $ans = [];
-        for ($i = 0; $i < $this->y; $i++) {
+        for ($i = 0; $i < $this->y; $i++) { //这里先y后x
             for ($j = 0; $j < $this->x; $j++) {
                 if (isset($ans1[$i][$j]) && isset($ans2[$i][$j]) && $ans1[$i][$j] && $ans2[$i][$j]) {
                     $ans[] = [$i, $j];
@@ -57,17 +51,18 @@ class Solution
         }
         $ans[$i][$j] = 1;
 
+
         //往4个方向搜索, 且判断是否能访问
         if ($i - 1 >= 0 && $this->heights[$i - 1][$j] >= $this->heights[$i][$j]) {
             $this->dfs($i - 1, $j, $ans);
         }
-        if ($i + 1 < $this->x && $this->heights[$i + 1][$j] >= $this->heights[$i][$j]) {
+        if ($i + 1 < $this->y && $this->heights[$i + 1][$j] >= $this->heights[$i][$j]) {
             $this->dfs($i + 1, $j, $ans);
         }
         if ($j - 1 >= 0 && $this->heights[$i][$j - 1] >= $this->heights[$i][$j]) {
             $this->dfs($i, $j - 1, $ans);
         }
-        if ($j + 1 < $this->y && $this->heights[$i][$j + 1] >= $this->heights[$i][$j]) {
+        if ($j + 1 < $this->x && $this->heights[$i][$j + 1] >= $this->heights[$i][$j]) { //这里一开始判断错为y了, 坑了好久
             $this->dfs($i, $j + 1, $ans);
         }
     }
@@ -76,3 +71,14 @@ class Solution
 echo json_encode((new Solution())->pacificAtlantic([[1, 2, 2, 3, 5], [3, 2, 3, 4, 4], [2, 4, 5, 3, 1], [6, 7, 1, 4, 5], [5, 1, 1, 2, 4]]));
 echo PHP_EOL;
 echo json_encode((new Solution())->pacificAtlantic([[2, 1], [1, 2]]));
+echo PHP_EOL;
+echo json_encode((new Solution())->pacificAtlantic([[1, 1], [1, 1], [1, 1]]));
+
+/**
+ * 目的是构造出两个答案矩阵 res_1和 res_2，res_k[i][j] = 1 代表格子 (i, j) 能够流向海域，起始从4边开始DFS，所有能够进入队列的格子均能够与海域联通。
+ * 最后统计所有满足 res_1[i][j] = res_2[i][j] = 1 的格子即是答案。
+ *
+ * 执行用时：88 ms, 在所有 PHP 提交中击败了100.00%的用户
+ * 内存消耗：21.6 MB, 在所有 PHP 提交中击败了100.00%的用户
+ * 通过测试用例：113 / 113
+ */
