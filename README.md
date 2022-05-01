@@ -6,7 +6,7 @@ jtahstu基于PHP语言的刷题记录, 和部分其它语言的解法(别人的�
 
 **目录**
 
-| 题目 | 题解 | 难度 | 类型 | 通过次数/提交次数 | AC日期 |
+| 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
 | [1305. 两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/) | [PHP](https://www.yuque.com/jtahstu/leetcode/ey75s3) | 中等 | 中序遍历 | 39,519/50,605 | 2022-05-01 |
 | [908. 最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/) | [PHP](https://www.yuque.com/jtahstu/leetcode/qtiqw8) | 简单 | 数学 | 24,971/35,483 | 2022-04-30 |

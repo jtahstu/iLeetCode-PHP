@@ -32,7 +32,7 @@ class Solution
      * @param TreeNode $root2
      * @return Integer[]
      */
-    function getAllElements($root1, $root2)
+    function getAllElements($root1, $root2)     //参考宫水三叶大佬的解法
     {
         $ans = $l1 = $l2 = [];
         $this->dfs($root1, $l1);
@@ -54,18 +54,33 @@ class Solution
         return $ans;
     }
 
-    function dfs($root, &$list)
+    public $ans = [];
+
+    function getAllElements优化($root1, $root2)  //这个写法就很好理解了, 哈哈
+    {
+        $this->dfs($root1);
+        $this->dfs($root2);
+        sort($this->ans);
+        return $this->ans;
+    }
+
+    function dfs($root)
     {
         if ($root == null)
             return;
-        $this->dfs($root->left, $list);
-        $list[] = $root->val;
-        $this->dfs($root->right, $list);
+        $this->dfs($root->left);
+        $this->ans[] = $root->val;
+        $this->dfs($root->right);
     }
 }
 
 /**
  * 执行用时：104 ms, 在所有 PHP 提交中击败了50.00%的用户
  * 内存消耗：23.6 MB, 在所有 PHP 提交中击败了100.00%的用户
+ * 通过测试用例：48 / 48
+ *
+ * 简化版还快一些
+ * 执行用时：100 ms, 在所有 PHP 提交中击败了50.00%的用户
+ * 内存消耗：23.3 MB, 在所有 PHP 提交中击败了100.00%的用户
  * 通过测试用例：48 / 48
  */
