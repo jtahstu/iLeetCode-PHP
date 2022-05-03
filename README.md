@@ -8,6 +8,7 @@ jtahstu基于PHP语言的刷题记录, 和部分其它语言的别人的优秀�
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [1689. 十-二进制数的最少数目](https://leetcode.cn/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [PHP](https://www.yuque.com/jtahstu/leetcode/xzct4q) | 中等 | 贪心 | 17,446/20,186 | 2022-05-03 |
 | [937. 重新排列日志文件](https://leetcode.cn/problems/reorder-data-in-log-files/) | [PHP](https://www.yuque.com/jtahstu/leetcode/ci69wx) | 简单 | 字符串排序 | 15,244/25,812 | 2022-05-03 |
 | [1828. 统计一个圆中点的数目](https://leetcode.cn/problems/queries-on-number-of-points-inside-a-circle/) | [PHP](https://www.yuque.com/jtahstu/leetcode/gyeu6t) | 中等 | 几何模拟 | 10,214/11,798 | 2022-05-02 |
 | [807. 保持城市天际线](https://leetcode.cn/problems/max-increase-to-keep-city-skyline/) | [PHP](https://www.yuque.com/jtahstu/leetcode/sf5byb) | 中等 | 贪心 | 47,425/53,532 | 2022-05-02 |
