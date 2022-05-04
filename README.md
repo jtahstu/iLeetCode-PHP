@@ -8,6 +8,7 @@ jtahstu基于PHP语言的刷题记录, 和部分其它语言的别人的优秀�
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [713. 乘积小于 K 的子数组](https://leetcode.cn/problems/subarray-product-less-than-k/) | [PHP](https://www.yuque.com/jtahstu/leetcode/alzo5f) | 中等 | 滑动窗口 | 42,754/96,447 | 2022-05-05 |
 | [33. 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | [PHP](https://www.yuque.com/jtahstu/leetcode/igwyag) | 中等 | 二分查找 | 524,066/1,204,034 | 2022-05-04 |
 | [1823. 找出游戏的获胜者](https://leetcode.cn/problems/find-the-winner-of-the-circular-game/) | [PHP](https://www.yuque.com/jtahstu/leetcode/ka6g50) | 中等 | 递归 | 14,864/20,158 | 2022-05-04 |
 | [1689. 十-二进制数的最少数目](https://leetcode.cn/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [PHP](https://www.yuque.com/jtahstu/leetcode/xzct4q) | 中等 | 贪心 | 17,446/20,186 | 2022-05-03 |
