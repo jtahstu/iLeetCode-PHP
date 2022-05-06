@@ -29,7 +29,3 @@ jtahstu基于PHP语言的刷题记录, 和部分其它语言的别人的优秀�
 | [883. 三维形体投影面积](https://leetcode.cn/problems/projection-area-of-3d-shapes/) | [PHP](https://www.yuque.com/jtahstu/leetcode/ko8vde) | 简单 | 模拟 | 37,644/49,350 | 2022-04-26 |
 | [398. 随机数索引](https://leetcode.cn/problems/random-pick-index/) | [PHP](https://www.yuque.com/jtahstu/leetcode/dnwn6i) | 中等 | 哈希表预处理 | 38,854/53,418 | 2022-04-25 |
 | [868. 二进制间距](https://leetcode.cn/problems/binary-gap/) | [PHP](https://www.yuque.com/jtahstu/leetcode/kxg774) | 简单 | 模拟 | 46,161/66,438 | 2022-04-24 |
-
-
-### 《剑指Offer》
-
