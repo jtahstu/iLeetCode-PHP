@@ -18,5 +18,8 @@
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
-| [剑指 Offer 09. 用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [Code](剑指Offer/剑指%20Offer%2009.%20用两个栈实现队列.php) | 简单 | 栈 | 406,879/573,645 | 2022-05-06 |
-| [剑指 Offer 30. 包含min函数的栈](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/) | [Code](剑指Offer/剑指%20Offer%2030.%20包含min函数的栈.php) | 简单 | 栈 | 241,411/437,077 | 2022-05-06 |
+| [剑指 Offer 35. 复杂链表的复制](https://leetcode.cn/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | [Code](剑指%20Offer%2035.%20复杂链表的复制.php) | 中等 | 链表 | 197,784/276,336 | 2022-05-07 |
+| [剑指 Offer 24. 反转链表](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/) | [Code](剑指%20Offer%2024.%20反转链表.php) | 简单 | 链表 | 416,729/560,729 | 2022-05-07 |
+| [剑指 Offer 06. 从尾到头打印链表](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [Code](剑指%20Offer%2006.%20从尾到头打印链表.php) | 简单 | 栈 | 444,644/593,071 | 2022-05-07 |
+| [剑指 Offer 09. 用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [Code](剑指%20Offer%2009.%20用两个栈实现队列.php) | 简单 | 栈 | 406,879/573,645 | 2022-05-06 |
+| [剑指 Offer 30. 包含min函数的栈](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/) | [Code](剑指%20Offer%2030.%20包含min函数的栈.php) | 简单 | 栈 | 241,411/437,077 | 2022-05-06 |
