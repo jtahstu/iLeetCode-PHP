@@ -4,9 +4,11 @@ jtahstu基于PHP语言的刷题记录, 和部分其它语言的别人的优秀�
 
 既然进来了, 点个star再走吧 🤣
 
-### [《剑指Offer(第二版)》AC记录](剑指Offer/README.md)
+### 1. [综合提升 - 剑指Offer(第二版)](剑指Offer/README.md)
 
-### LeetCode主站AC记录
+### 2. [专项突破 - SQL学习计划](MySQL/README.md)
+
+### 3. LeetCode主站AC记录
 
 <!--| []() | [PHP]() |  |  |  | 2022-05- | -->
 
