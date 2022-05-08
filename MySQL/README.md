@@ -9,6 +9,9 @@
 
 | 题目 | 题解 | 难度 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|
+| [1527. 患某种疾病的患者](https://leetcode.cn/problems/patients-with-a-condition/) | [SQL](1527.%20患某种疾病的患者.sql) | 简单 | 11,438/23,320 | 2022-05-08 |
+| [1484. 按日期分组销售产品](https://leetcode.cn/problems/group-sold-products-by-the-date/) | [SQL](1484.%20按日期分组销售产品.sql) | 简单 | 11,441/16,712 | 2022-05-08 |
+| [1667. 修复表中的名字](https://leetcode.cn/problems/fix-names-in-a-table/) | [SQL](1667.%20修复表中的名字.sql) | 简单 | 9,850/15,453 | 2022-05-08 |
 | [196. 删除重复的电子邮箱](https://leetcode.cn/problems/delete-duplicate-emails/) | [SQL](196.%20删除重复的电子邮箱.sql) | 简单 | 133,085/198,451 | 2022-05-07 |
 | [627. 变更性别](https://leetcode.cn/problems/swap-salary/) | [SQL](627.%20变更性别.sql) | 简单 | 107,638/131,998 | 2022-05-07 |
 | [1873. 计算特殊奖金](https://leetcode.cn/problems/calculate-special-bonus/) | [SQL](1873.%20计算特殊奖金.sql) | 简单 | 13,640/17,146 | 2022-05-07 |
