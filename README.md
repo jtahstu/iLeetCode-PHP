@@ -14,7 +14,8 @@ jtahstu基于PHP语言的刷题记录, 和部分其它语言的别人的优秀�
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
-| [442. 数组中重复的数据](https://leetcode.cn/problems/find-all-duplicates-in-an-array/) | [PHP](https://www.yuque.com/jtahstu/leetcode/ae3cw8) | 中等 | 数组 |  55,135/78,184 | 2022-05-07 |
+| [942. 增减字符串匹配](https://leetcode.cn/problems/di-string-match/) | [PHP](https://www.yuque.com/jtahstu/leetcode/wug4mu) | 简单 | 贪心 | 26,574/36,190 | 2022-05-09 |
+| [442. 数组中重复的数据](https://leetcode.cn/problems/find-all-duplicates-in-an-array/) | [PHP](https://www.yuque.com/jtahstu/leetcode/ae3cw8) | 中等 | 数组 |  55,135/78,184 | 2022-05-08 |
 | [433. 最小基因变化](https://leetcode.cn/problems/minimum-genetic-mutation/) | [PHP](https://www.yuque.com/jtahstu/leetcode/dpvuyr) | 中等 | BFS | 21,021/39,031 | 2022-05-07 |
 | [1476. 子矩形查询](https://leetcode.cn/problems/subrectangle-queries/) | [PHP](https://www.yuque.com/jtahstu/leetcode/asr97x) | 中等 | 数组 | 13,838/16,014 | 2022-05-06 |
 | [933. 最近的请求次数](https://leetcode.cn/problems/number-of-recent-calls/) | [PHP](https://www.yuque.com/jtahstu/leetcode/wedb6r) | 简单 | 队列 | 46,173/63,188 | 2022-05-06 |
