@@ -18,6 +18,8 @@
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [剑指 Offer 58 - II. 左旋转字符串](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | [Code](剑指%20Offer%2058%20-%20II.%20左旋转字符串.php) | 简单 | 字符串 | 318,275/369,850 | 2022-05-08 |
+| [剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/) | [Code](剑指%20Offer%2005.%20替换空格.php) | 简单 | 字符串 | 441,116/581,420 | 2022-05-08 |
 | [剑指 Offer 35. 复杂链表的复制](https://leetcode.cn/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | [Code](剑指%20Offer%2035.%20复杂链表的复制.php) | 中等 | 链表 | 197,784/276,336 | 2022-05-07 |
 | [剑指 Offer 24. 反转链表](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/) | [Code](剑指%20Offer%2024.%20反转链表.php) | 简单 | 链表 | 416,729/560,729 | 2022-05-07 |
 | [剑指 Offer 06. 从尾到头打印链表](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [Code](剑指%20Offer%2006.%20从尾到头打印链表.php) | 简单 | 栈 | 444,644/593,071 | 2022-05-07 |
