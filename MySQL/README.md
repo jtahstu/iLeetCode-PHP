@@ -9,6 +9,10 @@
 
 | 题目 | 题解 | 难度 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|
+| [176. 第二高的薪水](https://leetcode.cn/problems/second-highest-salary/) | [SQL](176.%20第二高的薪水.sql) | 中等 | 309,227/867,021 | 2022-05-09 |
+| [608. 树节点](https://leetcode.cn/problems/tree-node/) | [SQL](608.%20树节点.sql) | 中等 | 16,203/25,454 | 2022-05-09 |
+| [1795. 每个产品在不同商店的价格](https://leetcode.cn/problems/rearrange-products-table/) | [SQL](1795.%20每个产品在不同商店的价格.sql) | 简单 | 7,576/9,547 | 2022-05-09 |
+| [1965. 丢失信息的雇员](https://leetcode.cn/problems/employees-with-missing-information/) | [SQL](1965.%20丢失信息的雇员.sql) | 简单 | 7,288/9,702 | 2022-05-09 |
 | [1527. 患某种疾病的患者](https://leetcode.cn/problems/patients-with-a-condition/) | [SQL](1527.%20患某种疾病的患者.sql) | 简单 | 11,438/23,320 | 2022-05-08 |
 | [1484. 按日期分组销售产品](https://leetcode.cn/problems/group-sold-products-by-the-date/) | [SQL](1484.%20按日期分组销售产品.sql) | 简单 | 11,441/16,712 | 2022-05-08 |
 | [1667. 修复表中的名字](https://leetcode.cn/problems/fix-names-in-a-table/) | [SQL](1667.%20修复表中的名字.sql) | 简单 | 9,850/15,453 | 2022-05-08 |
