@@ -18,6 +18,9 @@
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://leetcode.cn/problems/que-shi-de-shu-zi-lcof/) | [Code](剑指%20Offer%2053%20-%20II.%200～n-1中缺失的数字.php) | 简单 | 二分查找 | 253,140/566,184 | 2022-05-09 |
+| [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | [Code](剑指%20Offer%2053%20-%20I.%20在排序数组中查找数字%20I.php) | 简单 | 二分查找 | 280,855/528,337 | 2022-05-09 |
+| [剑指 Offer 03. 数组中重复的数字](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [Code](剑指%20Offer%2003.%20数组中重复的数字.php) | 简单 | 哈希表 | 553,816/815,233 | 2022-05-09 |
 | [剑指 Offer 58 - II. 左旋转字符串](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | [Code](剑指%20Offer%2058%20-%20II.%20左旋转字符串.php) | 简单 | 字符串 | 318,275/369,850 | 2022-05-08 |
 | [剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/) | [Code](剑指%20Offer%2005.%20替换空格.php) | 简单 | 字符串 | 441,116/581,420 | 2022-05-08 |
 | [剑指 Offer 35. 复杂链表的复制](https://leetcode.cn/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | [Code](剑指%20Offer%2035.%20复杂链表的复制.php) | 中等 | 链表 | 197,784/276,336 | 2022-05-07 |
