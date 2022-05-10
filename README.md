@@ -14,6 +14,7 @@ jtahstu基于PHP语言的刷题记录, 和部分其它语言的别人的优秀�
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [449. 序列化和反序列化二叉搜索树](https://leetcode.cn/problems/serialize-and-deserialize-bst/) | [PHP](https://www.yuque.com/jtahstu/leetcode/hxl50i) | 中等 | 二叉搜索树 | 20,859/36,574 | 2022-05-11 |
 | [240. 搜索二维矩阵 II](https://leetcode.cn/problems/search-a-2d-matrix-ii/) | [PHP](https://www.yuque.com/jtahstu/leetcode/wos6dy) | 中等 | 查找 | 269,421/527,443 | 2022-05-10 |
 | [942. 增减字符串匹配](https://leetcode.cn/problems/di-string-match/) | [PHP](https://www.yuque.com/jtahstu/leetcode/wug4mu) | 简单 | 贪心 | 26,574/36,190 | 2022-05-09 |
 | [442. 数组中重复的数据](https://leetcode.cn/problems/find-all-duplicates-in-an-array/) | [PHP](https://www.yuque.com/jtahstu/leetcode/ae3cw8) | 中等 | 数组 |  55,135/78,184 | 2022-05-08 |
