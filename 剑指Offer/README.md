@@ -18,6 +18,9 @@
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [剑指 Offer 50. 第一个只出现一次的字符](https://leetcode.cn/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | [Code](剑指%20Offer%2050.%20第一个只出现一次的字符.php) | 简单 | 数组 | 233,203/375,168 | 2022-05-10 |
+| [剑指 Offer 11. 旋转数组的最小数字](https://leetcode.cn/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [Code](剑指%20Offer%2011.%20旋转数组的最小数字.php) | 简单 | 数组 | 367,459/747,042 | 2022-05-10 |
+| [剑指 Offer 04. 二维数组中的查找](https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [Code](剑指%20Offer%2004.%20二维数组中的查找.php) | 中等 | 二分查找 | 371,451/926,041 | 2022-05-10 |
 | [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://leetcode.cn/problems/que-shi-de-shu-zi-lcof/) | [Code](剑指%20Offer%2053%20-%20II.%200～n-1中缺失的数字.php) | 简单 | 二分查找 | 253,140/566,184 | 2022-05-09 |
 | [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | [Code](剑指%20Offer%2053%20-%20I.%20在排序数组中查找数字%20I.php) | 简单 | 二分查找 | 280,855/528,337 | 2022-05-09 |
 | [剑指 Offer 03. 数组中重复的数字](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [Code](剑指%20Offer%2003.%20数组中重复的数字.php) | 简单 | 哈希表 | 553,816/815,233 | 2022-05-09 |
