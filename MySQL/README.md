@@ -9,9 +9,11 @@
 
 | 题目 | 题解 | 难度 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|
-| [1148. 文章浏览 I](https://leetcode.cn/problems/article-views-i/) | [SQL](1148.%20文章浏览%20I.sql) | 简单 | 15,462/21,628 | 2022-05-10 |
-| [1581. 进店却未进行过交易的顾客](https://leetcode.cn/problems/customer-who-visited-but-did-not-make-any-transactions/) | [SQL](1581.%20进店却未进行过交易的顾客.sql) | 简单 | 9,829/11,957 | 2022-05-10 |
-| [175. 组合两个表](https://leetcode.cn/problems/combine-two-tables/) | [SQL](175.%20组合两个表.sql) | 简单 | 379,471/515,724 | 2022-05-10 |
+| [607. 销售员](https://leetcode.cn/problems/sales-person/) | [SQL](607.%20销售员.sql) | 简单 | 23,697/34,932 | 2022-05-11 |
+| [197. 上升的温度](https://leetcode.cn/problems/rising-temperature/) | [SQL](197.%20上升的温度.sql) | 简单 | 121,981/228,549 | 2022-05-11 |
+| [1148. 文章浏览 I](https://leetcode.cn/problems/article-views-i/) | [SQL](1148.%20文章浏览%20I.sql) | 简单 | 15,462/21,628 | 2022-05-11 |
+| [1581. 进店却未进行过交易的顾客](https://leetcode.cn/problems/customer-who-visited-but-did-not-make-any-transactions/) | [SQL](1581.%20进店却未进行过交易的顾客.sql) | 简单 | 9,829/11,957 | 2022-05-11 |
+| [175. 组合两个表](https://leetcode.cn/problems/combine-two-tables/) | [SQL](175.%20组合两个表.sql) | 简单 | 379,471/515,724 | 2022-05-11 |
 | [176. 第二高的薪水](https://leetcode.cn/problems/second-highest-salary/) | [SQL](176.%20第二高的薪水.sql) | 中等 | 309,227/867,021 | 2022-05-09 |
 | [608. 树节点](https://leetcode.cn/problems/tree-node/) | [SQL](608.%20树节点.sql) | 中等 | 16,203/25,454 | 2022-05-09 |
 | [1795. 每个产品在不同商店的价格](https://leetcode.cn/problems/rearrange-products-table/) | [SQL](1795.%20每个产品在不同商店的价格.sql) | 简单 | 7,576/9,547 | 2022-05-09 |
