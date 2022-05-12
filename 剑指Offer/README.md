@@ -18,6 +18,9 @@
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [剑指 Offer 28. 对称的二叉树](https://leetcode.cn/problems/dui-cheng-de-er-cha-shu-lcof/) | [Code](剑指%20Offer%2028.%20对称的二叉树.php) | 简单 | 二叉树/递归 | 217,815/377,966 | 2022-05-12 |
+| [剑指 Offer 27. 二叉树的镜像](https://leetcode.cn/problems/er-cha-shu-de-jing-xiang-lcof/) | [Code](剑指%20Offer%2027.%20二叉树的镜像.php) | 简单 | 二叉树/递归 | 271,162/341,372 | 2022-05-12 |
+| [剑指 Offer 26. 树的子结构](https://leetcode.cn/problems/shu-de-zi-jie-gou-lcof/) | [Code](剑指%20Offer%2026.%20树的子结构.php) | 中等 | 二叉树/递归 | 220,788/472,347 | 2022-05-12 |
 | [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | [Code](剑指%20Offer%2032%20-%20III.%20从上到下打印二叉树%20III.php) | 中等 | 二叉树/bfs | 184,628/314,481 | 2022-05-11 |
 | [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [Code](剑指%20Offer%2032%20-%20II.%20从上到下打印二叉树%20II.php) | 简单 | 二叉树/bfs | 203,254/295,336 | 2022-05-11 |
 | [剑指 Offer 32 - I. 从上到下打印二叉树](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | [Code](剑指%20Offer%2032%20-%20I.%20从上到下打印二叉树.php) | 中等 | 二叉树/bfs | 203,741/319,223 | 2022-05-11 |
