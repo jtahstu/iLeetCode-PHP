@@ -47,11 +47,9 @@ class Codec
         if ($root == null) {
             return;
         }
-
-        $this->dfs($root->left);
-
-        $this->dfs($root->right);
         $this->items[] = $root->val;
+        $this->dfs($root->left);
+        $this->dfs($root->right);
     }
 
     /**
