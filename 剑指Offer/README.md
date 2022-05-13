@@ -18,6 +18,9 @@
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [剑指 Offer 63. 股票的最大利润](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/) | [Code](剑指%20Offer%2063.%20股票的最大利润.php) | 中等 | dp | 197,669/311,132 | 2022-05-13 |
+| [剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode.cn/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [Code](剑指%20Offer%2010-%20II.%20青蛙跳台阶问题.php) | 简单 | dp | 278,984/613,825 | 2022-05-13 |
+| [剑指 Offer 10- I. 斐波那契数列](https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof/) | [Code](剑指%20Offer%2010-%20I.%20斐波那契数列.php) | 简单 | dp | 368,126/1,017,941 | 2022-05-13 |
 | [剑指 Offer 28. 对称的二叉树](https://leetcode.cn/problems/dui-cheng-de-er-cha-shu-lcof/) | [Code](剑指%20Offer%2028.%20对称的二叉树.php) | 简单 | 二叉树/递归 | 217,815/377,966 | 2022-05-12 |
 | [剑指 Offer 27. 二叉树的镜像](https://leetcode.cn/problems/er-cha-shu-de-jing-xiang-lcof/) | [Code](剑指%20Offer%2027.%20二叉树的镜像.php) | 简单 | 二叉树/递归 | 271,162/341,372 | 2022-05-12 |
 | [剑指 Offer 26. 树的子结构](https://leetcode.cn/problems/shu-de-zi-jie-gou-lcof/) | [Code](剑指%20Offer%2026.%20树的子结构.php) | 中等 | 二叉树/递归 | 220,788/472,347 | 2022-05-12 |
