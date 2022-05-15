@@ -18,6 +18,8 @@
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [剑指 Offer 48. 最长不含重复字符的子字符串](https://leetcode.cn/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | [Code](剑指%20Offer%2048.%20最长不含重复字符的子字符串.php) | 中等 | 动态规划 | 223,420/481,684 | 2022-05-15 |
+| [剑指 Offer 46. 把数字翻译成字符串](https://leetcode.cn/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | [Code](剑指%20Offer%2046.%20把数字翻译成字符串.php) | 中等 | 动态规划 | 181,536/347,106 | 2022-05-15 |
 | [剑指 Offer 47. 礼物的最大价值](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof/) | [Code](剑指%20Offer%2047.%20礼物的最大价值.php) | 中等 | 动态规划 | 179,817/260,347 | 2022-05-14 |
 | [剑指 Offer 42. 连续子数组的最大和](https://leetcode.cn/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [Code](剑指%20Offer%2042.%20连续子数组的最大和.php) | 简单 | 动态规划 | 304,596/501,632 | 2022-05-14 |
 | [剑指 Offer 63. 股票的最大利润](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/) | [Code](剑指%20Offer%2063.%20股票的最大利润.php) | 中等 | dp | 197,669/311,132 | 2022-05-13 |
