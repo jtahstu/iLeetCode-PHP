@@ -9,6 +9,9 @@
 
 | 题目 | 题解 | 难度 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|
+| [1729. 求关注者的数量](https://leetcode.cn/problems/find-followers-count/) | [SQL](1729.%20求关注者的数量.sql) | 简单 | 7,229/11,465 | 2022-05-15 |
+| [1693. 每天的领导和合伙人](https://leetcode.cn/problems/daily-leads-and-partners/) | [SQL](1693.%20每天的领导和合伙人.sql) | 简单 | 7,015/8,561 | 2022-05-15 |
+| [1141. 查询近30天活跃用户数](https://leetcode.cn/problems/user-activity-for-the-past-30-days-i/) | [SQL](1141.%20查询近30天活跃用户数.sql) | 简单 | 18,562/38,468 | 2022-05-15 |
 | [607. 销售员](https://leetcode.cn/problems/sales-person/) | [SQL](607.%20销售员.sql) | 简单 | 23,697/34,932 | 2022-05-11 |
 | [197. 上升的温度](https://leetcode.cn/problems/rising-temperature/) | [SQL](197.%20上升的温度.sql) | 简单 | 121,981/228,549 | 2022-05-11 |
 | [1148. 文章浏览 I](https://leetcode.cn/problems/article-views-i/) | [SQL](1148.%20文章浏览%20I.sql) | 简单 | 15,462/21,628 | 2022-05-11 |
