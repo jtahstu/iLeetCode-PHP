@@ -18,6 +18,8 @@
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [Code](剑指%20Offer%2022.%20链表中倒数第k个节点.php) | 简单 | 链表 | 351,473/438,368 | 2022-05-16 |
+| [剑指 Offer 18. 删除链表的节点](https://leetcode.cn/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [Code](剑指%20Offer%2018.%20删除链表的节点.php) | 简单 | 双指针 | 264,622/440,403 | 2022-05-16 |
 | [剑指 Offer 48. 最长不含重复字符的子字符串](https://leetcode.cn/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | [Code](剑指%20Offer%2048.%20最长不含重复字符的子字符串.php) | 中等 | 动态规划 | 223,420/481,684 | 2022-05-15 |
 | [剑指 Offer 46. 把数字翻译成字符串](https://leetcode.cn/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | [Code](剑指%20Offer%2046.%20把数字翻译成字符串.php) | 中等 | 动态规划 | 181,536/347,106 | 2022-05-15 |
 | [剑指 Offer 47. 礼物的最大价值](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof/) | [Code](剑指%20Offer%2047.%20礼物的最大价值.php) | 中等 | 动态规划 | 179,817/260,347 | 2022-05-14 |
