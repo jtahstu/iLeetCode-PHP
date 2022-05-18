@@ -14,6 +14,7 @@ jtahstu基于PHP语言的刷题记录, 和部分其它语言的别人的优秀�
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [462. 最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/) | [PHP](https://www.yuque.com/jtahstu/leetcode/iw35nu) | 中等 | 数学 | 19,491/31,623 | 2022-05-19 |
 | [668. 乘法表中第k小的数](https://leetcode.cn/problems/kth-smallest-number-in-multiplication-table/) | [PHP](https://www.yuque.com/jtahstu/leetcode/uo19el) | 困难 | 二分 | 13,828/24,877 | 2022-05-18 |
 | [953. 验证外星语词典](https://leetcode.cn/problems/verifying-an-alien-dictionary/) | [PHP](https://www.yuque.com/jtahstu/leetcode/ze0lcx) | 简单 | 字符串 | 21,259/38,170 | 2022-05-17 |
 | [面试题 01.05. 一次编辑](https://leetcode.cn/problems/one-away-lcci/) | [PHP](https://www.yuque.com/jtahstu/leetcode/nxgs5k) | 中等 | 字符串/双指针 | 44,201/136,132 | 2022-05-13 |
