@@ -18,6 +18,9 @@
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode.cn/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | [Code](剑指%20Offer%2058%20-%20I.%20翻转单词顺序.php) | 简单 | 字符串 | 189,878/426,403 | 2022-05-19 |
+| [剑指 Offer 57. 和为s的两个数字](https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | [Code](剑指%20Offer%2057.%20和为s的两个数字.php) | 简单 | 双指针/二分 | 197,039/290,803 | 2022-05-19 |
+| [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [Code](剑指%20Offer%2021.%20调整数组顺序使奇数位于偶数前面.php) | 简单 | 双指针 | 278,189/429,741 | 2022-05-19 |
 | [剑指 Offer 52. 两个链表的第一个公共节点](https://leetcode.cn/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | [Code](剑指%20Offer%2052.%20两个链表的第一个公共节点.php) | 简单 | 双指针 | 239,172/364,921 | 2022-05-17 |
 | [剑指 Offer 25. 合并两个排序的链表](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | [Code](剑指%20Offer%2025.%20合并两个排序的链表.php) | 简单 | 链表 | 263,811/363,178 | 2022-05-17 |
 | [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [Code](剑指%20Offer%2022.%20链表中倒数第k个节点.php) | 简单 | 链表 | 351,473/438,368 | 2022-05-16 |
