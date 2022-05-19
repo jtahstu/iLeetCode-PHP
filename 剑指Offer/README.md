@@ -18,6 +18,8 @@
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [剑指 Offer 13. 机器人的运动范围](https://leetcode.cn/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [Code](剑指%20Offer%2013.%20机器人的运动范围.php) | 中等 | 广搜/深搜 | 251,239/471,015 | 2022-05-19 |
+| [剑指 Offer 12. 矩阵中的路径](https://leetcode.cn/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [Code](剑指%20Offer%2012.%20矩阵中的路径.php) | 中等 | 深搜 | 246,444/544,774 | 2022-05-19 |
 | [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode.cn/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | [Code](剑指%20Offer%2058%20-%20I.%20翻转单词顺序.php) | 简单 | 字符串 | 189,878/426,403 | 2022-05-19 |
 | [剑指 Offer 57. 和为s的两个数字](https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | [Code](剑指%20Offer%2057.%20和为s的两个数字.php) | 简单 | 双指针/二分 | 197,039/290,803 | 2022-05-19 |
 | [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [Code](剑指%20Offer%2021.%20调整数组顺序使奇数位于偶数前面.php) | 简单 | 双指针 | 278,189/429,741 | 2022-05-19 |
