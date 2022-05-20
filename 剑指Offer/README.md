@@ -18,6 +18,9 @@
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | [Code](剑指%20Offer%2054.%20二叉搜索树的第k大节点) | 简单 | 中序遍历 | 232,144/304,306 | 2022-05-20 |
+| [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode.cn/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [Code](剑指%20Offer%2036.%20二叉搜索树与双向链表) | 中等 | 中序遍历 | 156,605/239,886 | 2022-05-20 |
+| [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode.cn/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | [Code](../Medium/113.%20路径总和%20II.php) | 中等 | 深搜 | 195,448/333,640 | 2022-05-20 |
 | [剑指 Offer 13. 机器人的运动范围](https://leetcode.cn/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [Code](剑指%20Offer%2013.%20机器人的运动范围.php) | 中等 | 广搜/深搜 | 251,239/471,015 | 2022-05-19 |
 | [剑指 Offer 12. 矩阵中的路径](https://leetcode.cn/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [Code](剑指%20Offer%2012.%20矩阵中的路径.php) | 中等 | 深搜 | 246,444/544,774 | 2022-05-19 |
 | [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode.cn/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | [Code](剑指%20Offer%2058%20-%20I.%20翻转单词顺序.php) | 简单 | 字符串 | 189,878/426,403 | 2022-05-19 |
