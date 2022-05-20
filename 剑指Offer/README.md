@@ -18,6 +18,8 @@
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [剑指 Offer 61. 扑克牌中的顺子](https://leetcode.cn/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [Code](剑指%20Offer%2061.%20扑克牌中的顺子) | 简单 | 数组 | 157,057/341,062 | 2022-05-21 |
+| [剑指 Offer 45. 把数组排成最小的数](https://leetcode.cn/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [Code](剑指%20Offer%2045.%20把数组排成最小的数) | 中等 | 排序/贪心 | 165,804/298,204 | 2022-05-21 |
 | [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | [Code](剑指%20Offer%2054.%20二叉搜索树的第k大节点) | 简单 | 中序遍历 | 232,144/304,306 | 2022-05-20 |
 | [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode.cn/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [Code](剑指%20Offer%2036.%20二叉搜索树与双向链表) | 中等 | 中序遍历 | 156,605/239,886 | 2022-05-20 |
 | [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode.cn/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | [Code](../Medium/113.%20路径总和%20II.php) | 中等 | 深搜 | 195,448/333,640 | 2022-05-20 |
