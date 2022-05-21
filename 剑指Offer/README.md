@@ -18,6 +18,8 @@
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [剑指 Offer 41. 数据流中的中位数](https://leetcode.cn/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/) | [Code](剑指%20Offer%2041.%20数据流中的中位数) | 困难 | 大/小顶堆 | 97,931/167,560 | 2022-05-22 |
+| [剑指 Offer 40. 最小的k个数](https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof/) | [Code](剑指%20Offer%2040.%20最小的k个数) | 简单 | 数组 | 341,833/596,234 | 2022-05-22 |
 | [剑指 Offer 61. 扑克牌中的顺子](https://leetcode.cn/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [Code](剑指%20Offer%2061.%20扑克牌中的顺子) | 简单 | 数组 | 157,057/341,062 | 2022-05-21 |
 | [剑指 Offer 45. 把数组排成最小的数](https://leetcode.cn/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [Code](剑指%20Offer%2045.%20把数组排成最小的数) | 中等 | 排序/贪心 | 165,804/298,204 | 2022-05-21 |
 | [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | [Code](剑指%20Offer%2054.%20二叉搜索树的第k大节点) | 简单 | 中序遍历 | 232,144/304,306 | 2022-05-20 |
