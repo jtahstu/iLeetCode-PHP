@@ -9,6 +9,10 @@
 
 | 题目 | 题解 | 难度 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|
+| [1741. 查找每个员工花费的总时间](https://leetcode.cn/problems/find-total-time-spent-by-each-employee/) | [SQL](1741.%20查找每个员工花费的总时间.sql) | 简单 | 7,506/8,806 | 2022-05-23 |
+| [1890. 2020年最后一次登录](https://leetcode.cn/problems/the-latest-login-in-2020/) | [SQL](1890.%202020年最后一次登录.sql) | 简单 | 6,542/8,933 | 2022-05-23 |
+| [511. 游戏玩法分析 I](https://leetcode.cn/problems/game-play-analysis-i/) | [SQL](511.%20游戏玩法分析%20I.sql) | 简单 | 36,963/51,005 | 2022-05-23 |
+| [586. 订单最多的客户](https://leetcode.cn/problems/customer-placing-the-largest-number-of-orders/) | [SQL](586.%20订单最多的客户.sql) | 简单 | 29,283/40,062 | 2022-05-23 |
 | [1729. 求关注者的数量](https://leetcode.cn/problems/find-followers-count/) | [SQL](1729.%20求关注者的数量.sql) | 简单 | 7,229/11,465 | 2022-05-15 |
 | [1693. 每天的领导和合伙人](https://leetcode.cn/problems/daily-leads-and-partners/) | [SQL](1693.%20每天的领导和合伙人.sql) | 简单 | 7,015/8,561 | 2022-05-15 |
 | [1141. 查询近30天活跃用户数](https://leetcode.cn/problems/user-activity-for-the-past-30-days-i/) | [SQL](1141.%20查询近30天活跃用户数.sql) | 简单 | 18,562/38,468 | 2022-05-15 |
