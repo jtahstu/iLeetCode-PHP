@@ -18,6 +18,8 @@
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [剑指 Offer 55 - II. 平衡二叉树](https://leetcode.cn/problems/ping-heng-er-cha-shu-lcof/) | [Code](剑指193,334提交次数325,031Offer193,334提交次数325,03155193,334提交次数325,031-193,334提交次数325,031II.193,334提交次数325,031平衡二叉树.php) | 简单 | 二叉树 | 193,334/325,031 | 2022-05-23 |
+| [剑指 Offer 55 - I. 二叉树的深度](https://leetcode.cn/problems/er-cha-shu-de-shen-du-lcof/) | [Code](剑指193,334提交次数325,031Offer193,334提交次数325,03155193,334提交次数325,031-193,334提交次数325,031I.193,334提交次数325,031二叉树的深度.php) | 简单 | 二叉树 | 239,946/303,005 | 2022-05-23 |
 | [剑指 Offer 41. 数据流中的中位数](https://leetcode.cn/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/) | [Code](剑指%20Offer%2041.%20数据流中的中位数) | 困难 | 大/小顶堆 | 97,931/167,560 | 2022-05-22 |
 | [剑指 Offer 40. 最小的k个数](https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof/) | [Code](剑指%20Offer%2040.%20最小的k个数) | 简单 | 数组 | 341,833/596,234 | 2022-05-22 |
 | [剑指 Offer 61. 扑克牌中的顺子](https://leetcode.cn/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [Code](剑指%20Offer%2061.%20扑克牌中的顺子) | 简单 | 数组 | 157,057/341,062 | 2022-05-21 |
