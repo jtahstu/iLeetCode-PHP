@@ -9,6 +9,9 @@
 
 | 题目 | 题解 | 难度 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|
+| [1158. 市场分析 I](https://leetcode.cn/problems/market-analysis-i/) | [SQL](1158.%20市场分析%20I.sql) | 中等 | 12,142/21,711 | 2022-05-24 |
+| [1407. 排名靠前的旅行者](https://leetcode.cn/problems/top-travellers/) | [SQL](1407.%20排名靠前的旅行者.sql) | 简单 | 12,023/17,799 | 2022-05-24 |
+| [1393. 股票的资本损益](https://leetcode.cn/problems/capital-gainloss/) | [SQL](1393.%20股票的资本损益.sql) | 中等 | 9,557/11,281 | 2022-05-24 |
 | [1741. 查找每个员工花费的总时间](https://leetcode.cn/problems/find-total-time-spent-by-each-employee/) | [SQL](1741.%20查找每个员工花费的总时间.sql) | 简单 | 7,506/8,806 | 2022-05-23 |
 | [1890. 2020年最后一次登录](https://leetcode.cn/problems/the-latest-login-in-2020/) | [SQL](1890.%202020年最后一次登录.sql) | 简单 | 6,542/8,933 | 2022-05-23 |
 | [511. 游戏玩法分析 I](https://leetcode.cn/problems/game-play-analysis-i/) | [SQL](511.%20游戏玩法分析%20I.sql) | 简单 | 36,963/51,005 | 2022-05-23 |
