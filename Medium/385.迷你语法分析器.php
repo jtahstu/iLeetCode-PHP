@@ -51,7 +51,7 @@ class Solution
             return new NestedInteger(intval($s));
         }
         if (strlen($s) <= 2) {
-            return NestedInteger();
+            return new NestedInteger();
         }
         $res = new NestedInteger();
         $start = 1;
