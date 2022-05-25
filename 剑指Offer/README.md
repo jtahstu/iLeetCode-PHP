@@ -18,14 +18,20 @@
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
-| [剑指 Offer 55 - II. 平衡二叉树](https://leetcode.cn/problems/ping-heng-er-cha-shu-lcof/) | [Code](剑指193,334提交次数325,031Offer193,334提交次数325,03155193,334提交次数325,031-193,334提交次数325,031II.193,334提交次数325,031平衡二叉树.php) | 简单 | 二叉树 | 193,334/325,031 | 2022-05-23 |
-| [剑指 Offer 55 - I. 二叉树的深度](https://leetcode.cn/problems/er-cha-shu-de-shen-du-lcof/) | [Code](剑指193,334提交次数325,031Offer193,334提交次数325,03155193,334提交次数325,031-193,334提交次数325,031I.193,334提交次数325,031二叉树的深度.php) | 简单 | 二叉树 | 239,946/303,005 | 2022-05-23 |
-| [剑指 Offer 41. 数据流中的中位数](https://leetcode.cn/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/) | [Code](剑指%20Offer%2041.%20数据流中的中位数) | 困难 | 大/小顶堆 | 97,931/167,560 | 2022-05-22 |
-| [剑指 Offer 40. 最小的k个数](https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof/) | [Code](剑指%20Offer%2040.%20最小的k个数) | 简单 | 数组 | 341,833/596,234 | 2022-05-22 |
-| [剑指 Offer 61. 扑克牌中的顺子](https://leetcode.cn/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [Code](剑指%20Offer%2061.%20扑克牌中的顺子) | 简单 | 数组 | 157,057/341,062 | 2022-05-21 |
-| [剑指 Offer 45. 把数组排成最小的数](https://leetcode.cn/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [Code](剑指%20Offer%2045.%20把数组排成最小的数) | 中等 | 排序/贪心 | 165,804/298,204 | 2022-05-21 |
-| [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | [Code](剑指%20Offer%2054.%20二叉搜索树的第k大节点) | 简单 | 中序遍历 | 232,144/304,306 | 2022-05-20 |
-| [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode.cn/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [Code](剑指%20Offer%2036.%20二叉搜索树与双向链表) | 中等 | 中序遍历 | 156,605/239,886 | 2022-05-20 |
+| [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | [Code](剑指%20Offer%2033.%20二叉搜索树的后序遍历序列.php) | 中等 | 二叉树 | 165,242/294,507 | 2022-05-25 |
+| [剑指 Offer 16. 数值的整数次方](https://leetcode.cn/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | [Code](剑指%20Offer%2016.%20数值的整数次方.php) | 中等 | 递归 | 175,859/509,059 | 2022-05-25 |
+| [剑指 Offer 07. 重建二叉树](https://leetcode.cn/problems/zhong-jian-er-cha-shu-lcof/) | [Code](剑指%20Offer%2007.%20重建二叉树.php) | 中等 | 二叉树 | 257,345/366,290 | 2022-05-25 |
+| [剑指 Offer 68 - II. 二叉树的最近公共祖先](https://leetcode.cn/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | Code | 简单 | 二叉树 | 165,343/234,876 | 2022-05-24 |
+| [剑指 Offer 68 - I. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | Code | 简单 | 二叉树 | 170,172/244,844 | 2022-05-24 |
+| [剑指 Offer 64. 求1+2+…+n](https://leetcode.cn/problems/qiu-12n-lcof/) | [Code](剑指%20Offer%2064.%20求1+2+…+n.php) | 中等 | 递归 | 187,138/217,779 | 2022-05-24 |
+| [剑指 Offer 55 - II. 平衡二叉树](https://leetcode.cn/problems/ping-heng-er-cha-shu-lcof/) | [Code](剑指%20Offer%2055%20-%20II.%20平衡二叉树.php) | 简单 | 二叉树 | 193,334/325,031 | 2022-05-23 |
+| [剑指 Offer 55 - I. 二叉树的深度](https://leetcode.cn/problems/er-cha-shu-de-shen-du-lcof/) | [Code](剑指%20Offer%2055%20-%20I.%20二叉树的深度.php) | 简单 | 二叉树 | 239,946/303,005 | 2022-05-23 |
+| [剑指 Offer 41. 数据流中的中位数](https://leetcode.cn/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/) | [Code](剑指%20Offer%2041.%20数据流中的中位数.php) | 困难 | 大/小顶堆 | 97,931/167,560 | 2022-05-22 |
+| [剑指 Offer 40. 最小的k个数](https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof/) | [Code](剑指%20Offer%2040.%20最小的k个数.php) | 简单 | 数组 | 341,833/596,234 | 2022-05-22 |
+| [剑指 Offer 61. 扑克牌中的顺子](https://leetcode.cn/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [Code](剑指%20Offer%2061.%20扑克牌中的顺子.php) | 简单 | 数组 | 157,057/341,062 | 2022-05-21 |
+| [剑指 Offer 45. 把数组排成最小的数](https://leetcode.cn/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [Code](剑指%20Offer%2045.%20把数组排成最小的数.php) | 中等 | 排序/贪心 | 165,804/298,204 | 2022-05-21 |
+| [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | [Code](剑指%20Offer%2054.%20二叉搜索树的第k大节点.php) | 简单 | 中序遍历 | 232,144/304,306 | 2022-05-20 |
+| [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode.cn/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [Code](剑指%20Offer%2036.%20二叉搜索树与双向链表.php) | 中等 | 中序遍历 | 156,605/239,886 | 2022-05-20 |
 | [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode.cn/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | [Code](../Medium/113.%20路径总和%20II.php) | 中等 | 深搜 | 195,448/333,640 | 2022-05-20 |
 | [剑指 Offer 13. 机器人的运动范围](https://leetcode.cn/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [Code](剑指%20Offer%2013.%20机器人的运动范围.php) | 中等 | 广搜/深搜 | 251,239/471,015 | 2022-05-19 |
 | [剑指 Offer 12. 矩阵中的路径](https://leetcode.cn/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [Code](剑指%20Offer%2012.%20矩阵中的路径.php) | 中等 | 深搜 | 246,444/544,774 | 2022-05-19 |
