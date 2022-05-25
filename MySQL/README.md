@@ -9,6 +9,10 @@
 
 | 题目 | 题解 | 难度 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|
+| [1084. 销售分析III](https://leetcode.cn/problems/sales-analysis-iii/) | [SQL](1084.%20销售分析III.sql) | 简单 | 19,274/34,830 | 2022-05-25 |
+| [1587. 银行账户概要 II](https://leetcode.cn/problems/bank-account-summary-ii/) | [SQL](1587.%20银行账户概要%20II.sql) | 简单 | 8,637/10,258 | 2022-05-25 |
+| [1050. 合作过至少三次的演员和导演](https://leetcode.cn/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [SQL](1050.%20合作过至少三次的演员和导演.sql) | 简单 | 21,428/27,802 | 2022-05-25 |
+| [182. 查找重复的电子邮箱](https://leetcode.cn/problems/duplicate-emails/) | [SQL](182.%20查找重复的电子邮箱.sql) | 简单 | 228,441/288,064 | 2022-05-25 |
 | [1158. 市场分析 I](https://leetcode.cn/problems/market-analysis-i/) | [SQL](1158.%20市场分析%20I.sql) | 中等 | 12,142/21,711 | 2022-05-24 |
 | [1407. 排名靠前的旅行者](https://leetcode.cn/problems/top-travellers/) | [SQL](1407.%20排名靠前的旅行者.sql) | 简单 | 12,023/17,799 | 2022-05-24 |
 | [1393. 股票的资本损益](https://leetcode.cn/problems/capital-gainloss/) | [SQL](1393.%20股票的资本损益.sql) | 中等 | 9,557/11,281 | 2022-05-24 |
