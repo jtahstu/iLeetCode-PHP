@@ -7,6 +7,8 @@ jtahstu基于PHP语言的刷题记录, 和部分其它语言的别人的优秀�
 ### 1. [综合提升 - 剑指Offer(第二版)](剑指Offer/README.md)
 
 ### 2. [专项突破 - SQL学习计划](MySQL/README.md)
+    
+可获得`SQL入门勋章`, 10天33道题, 已完结
 
 ### 3. LeetCode主站AC记录
 
