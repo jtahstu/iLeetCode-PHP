@@ -18,6 +18,8 @@
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [剑指 Offer 65. 不用加减乘除做加法](https://leetcode.cn/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | [Code](剑指%20Offer%2065.%20不用加减乘除做加法.php) | 简单 | 位运算 | 107,075/180,522 | 2022-05-26 |
+| [剑指 Offer 15. 二进制中1的个数](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [Code](剑指%20Offer%2015.%20二进制中1的个数.php) | 简单 | 位运算 | 261,875/348,534 | 2022-05-26 |
 | [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | [Code](剑指%20Offer%2033.%20二叉搜索树的后序遍历序列.php) | 中等 | 二叉树 | 165,242/294,507 | 2022-05-25 |
 | [剑指 Offer 16. 数值的整数次方](https://leetcode.cn/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | [Code](剑指%20Offer%2016.%20数值的整数次方.php) | 中等 | 递归 | 175,859/509,059 | 2022-05-25 |
 | [剑指 Offer 07. 重建二叉树](https://leetcode.cn/problems/zhong-jian-er-cha-shu-lcof/) | [Code](剑指%20Offer%2007.%20重建二叉树.php) | 中等 | 二叉树 | 257,345/366,290 | 2022-05-25 |
