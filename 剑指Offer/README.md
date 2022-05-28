@@ -18,6 +18,8 @@
 
 | 题目 | 题解 | 难度 | 类型 | 通过/提交 | AC日期 |
 |----|----|:----:|:----:|:----:|:----:|
+| [剑指 Offer 66. 构建乘积数组](https://leetcode.cn/problems/gou-jian-cheng-ji-shu-zu-lcof/) | [Code](剑指%20Offer%2066.%20构建乘积数组.php) | 中等 | 前缀和 | 109,182/182,405 | 2022-05-28 |
+| [剑指 Offer 39. 数组中出现次数超过一半的数字](https://leetcode.cn/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [Code](剑指%20Offer%2039.%20数组中出现次数超过一半的数字.php) | 简单 | 哈希表 | 233,603/333,896 | 2022-05-28 |
 | [剑指 Offer 56 - II. 数组中数字出现的次数 II](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) | [Code](剑指%20Offer%2056%20-%20II.%20数组中数字出现的次数%20II.php) | 中等 | 位运算 | 128,929/160,008 | 2022-05-27 |
 | [剑指 Offer 56 - I. 数组中数字出现的次数](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) | [Code](剑指%20Offer%2056%20-%20I.%20数组中数字出现的次数.php) | 中等 | 位运算 | 157,763/227,803 | 2022-05-27 |
 | [剑指 Offer 65. 不用加减乘除做加法](https://leetcode.cn/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | [Code](剑指%20Offer%2065.%20不用加减乘除做加法.php) | 简单 | 位运算 | 107,075/180,522 | 2022-05-26 |
