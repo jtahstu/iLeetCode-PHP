@@ -25,7 +25,7 @@ class Solution
         $num = 1;
         for ($i = 0; $i < count($nums); $i++) {
             $num *= $nums[$i];
-            while ($l<$i && $num >= $k) {
+            while ($num >= $k) {
                 $num = intval($num / $nums[$l]);
                 $l++;
             }
