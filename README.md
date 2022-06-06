@@ -2,9 +2,9 @@
 
 jtahstu基于PHP语言的刷题记录, 和部分其它语言的别人的优秀代码
 
-既然进来了, 点个star再走吧 🤣
-
 ### 1. [综合提升 - 剑指Offer(第二版)](剑指Offer/README.md)
+
+可获得`剑指Offer学习勋章`, 31天75道题, 已完结
 
 ### 2. [专项突破 - SQL学习计划](MySQL/README.md)
     
