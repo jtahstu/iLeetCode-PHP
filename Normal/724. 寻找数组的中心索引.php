@@ -3,7 +3,8 @@
  * Created by PhpStorm
  * User: jtahstu
  * Time: 2022/4/12 23:03
- * Des: todo list
+ * Des: 724. 寻找数组的中心下标
+ *      https://leetcode.cn/problems/find-pivot-index/
  */
 
 class Solution
