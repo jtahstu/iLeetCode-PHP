@@ -15,6 +15,10 @@ jtahstu基于PHP语言的刷题记录, 和部分其它语言的别人的优秀�
 <!--start-->
 | 题目 | 题解 | AC日期 |
 |----|:----:|:----:|
+| [745. 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search/) | [PHP](./Difficult/745.%20前缀和后缀搜索.php) | 2022/7/14 14:54 |
+| [1252. 奇数值单元格的数目](https://leetcode.cn/problems/cells-with-odd-values-in-a-matrix/) | [PHP](./Normal/1252.%20奇数值单元格的数目.php) | 2022/7/12 16:16 |
+| [1217. 玩筹码](https://leetcode.cn/problems/minimum-cost-to-move-chips-to-the-same-position/) | [PHP](./Normal/1217.%20玩筹码.php) | 2022/7/8 09:57 |
+| [648. 单词替换](https://leetcode.cn/problems/replace-words/) | [PHP](./Medium/648.%20单词替换.php) | 2022/7/7 14:33 |
 | [1200. 最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference/) | [PHP](./Normal/1200.%20最小绝对差.php) | 2022/7/4 10:07 |
 | [556. 下一个更大元素 III](https://leetcode.cn/problems/next-greater-element-iii/) | [PHP](./Medium/556.%20下一个更大元素%20III.php) | 2022/7/3 17:49 |
 | [1175. 质数排列](https://leetcode.cn/problems/prime-arrangements/) | [PHP](./Normal/1175.%20质数排列.php) | 2022/6/30 10:43 |
