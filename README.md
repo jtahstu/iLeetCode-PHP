@@ -15,6 +15,18 @@ jtahstu基于PHP语言的刷题记录, 和部分其它语言的别人的优秀�
 <!--start-->
 | 题目 | 题解 | AC日期 |
 |----|:----:|:----:|
+| [745. 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search/) | [PHP](./Difficult/745.%20前缀和后缀搜索.php) | 2022/7/14 14:54 |
+| [1252. 奇数值单元格的数目](https://leetcode.cn/problems/cells-with-odd-values-in-a-matrix/) | [PHP](./Normal/1252.%20奇数值单元格的数目.php) | 2022/7/12 16:16 |
+| [1217. 玩筹码](https://leetcode.cn/problems/minimum-cost-to-move-chips-to-the-same-position/) | [PHP](./Normal/1217.%20玩筹码.php) | 2022/7/8 09:57 |
+| [648. 单词替换](https://leetcode.cn/problems/replace-words/) | [PHP](./Medium/648.%20单词替换.php) | 2022/7/7 14:33 |
+| [1200. 最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference/) | [PHP](./Normal/1200.%20最小绝对差.php) | 2022/7/4 10:07 |
+| [556. 下一个更大元素 III](https://leetcode.cn/problems/next-greater-element-iii/) | [PHP](./Medium/556.%20下一个更大元素%20III.php) | 2022/7/3 17:49 |
+| [1175. 质数排列](https://leetcode.cn/problems/prime-arrangements/) | [PHP](./Normal/1175.%20质数排列.php) | 2022/6/30 10:43 |
+| [324. 摆动排序 II](https://leetcode.cn/problems/wiggle-sort-ii/) | [PHP](./Medium/324.%20摆动排序%20II.php) | 2022/6/28 10:05 |
+| [522. 最长特殊序列 II](https://leetcode.cn/problems/longest-uncommon-subsequence-ii/) | [PHP](./Medium/522.%20最长特殊序列%20II.php) | 2022/6/27 15:46 |
+| [710. 黑名单中的随机数](https://leetcode.cn/problems/random-pick-with-blacklist/) | [PHP](./Difficult/710.%20黑名单中的随机数.php) | 2022/6/26 18:53 |
+| [515. 在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/) | [PHP](./Medium/515.%20在每个树行中找最大值.php) | 2022/6/24 10:16 |
+| [30. 串联所有单词的子串](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/) | [PHP](./Difficult/30.%20串联所有单词的子串.php) | 2022/6/23 14:05 |
 | [513. 找树左下角的值](https://leetcode.cn/problems/find-bottom-left-tree-value/) | [PHP](./Medium/513.%20找树左下角的值.php) | 2022/6/22 10:15 |
 | [101. 对称二叉树](https://leetcode.cn/problems/symmetric-tree/) | [PHP](./Normal/101.%20对称二叉树.php) | 2022/6/21 13:57 |
 | [1108. IP 地址无效化](https://leetcode.cn/problems/defanging-an-ip-address/) | [PHP](./Normal/1108.%20IP%20地址无效化.php) | 2022/6/21 13:44 |
